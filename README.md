@@ -64,4 +64,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  06/21/2025 08-54
+
+
+Update:  23.06.2025
