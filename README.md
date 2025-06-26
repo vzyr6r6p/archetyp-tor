@@ -68,4 +68,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  24.06.2025 04:38 Documentation links
+
+
+Update:  26 June 2025 Redirect loops
