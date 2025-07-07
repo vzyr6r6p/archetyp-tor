@@ -72,4 +72,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: url is now active
+
+
+Update: Resource URLs
