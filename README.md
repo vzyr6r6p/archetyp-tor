@@ -78,4 +78,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  07/18/2025 15-02
+
+
+Update:  21.07.2025 22:01
